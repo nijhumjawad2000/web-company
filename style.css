@@ -1,0 +1,10 @@
+body {
+  background-color: silver;
+}
+.container {
+  background-color: rgb(110, 158, 230);
+}
+marquee {
+  background-color: black;
+  color: white;
+}
